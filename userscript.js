@@ -8,7 +8,7 @@
 
 setInterval( ()=>{
   
-  var Hz = 144;
+  var Hz = 120;
   var updateRate = 1000/(Hz+30)
   
   var currRefreshrate = unsafeWindow.player?.options?.updateRate ?? -1;
