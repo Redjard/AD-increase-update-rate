@@ -3,6 +3,7 @@
 // @version  1
 // @grant    none
 // @match    https://ivark.github.io/AntimatterDimensions/*
+// @updateURL    https://raw.githubusercontent.com/Redjard/AD-increase-update-rate/master/userscript.js
 // ==/UserScript==
 
 
