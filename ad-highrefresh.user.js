@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AD increase update rate
 // @version      1
-// @grant        none
+// @grant        unsafeWindow
 // @match        https://ivark.github.io/AntimatterDimensions/*
 // @match        https://toilet45.github.io/ADRedemption/*
 // @updateURL    https://raw.githubusercontent.com/Redjard/AD-increase-update-rate/master/ad-highrefresh.user.js
