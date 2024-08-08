@@ -1,8 +1,9 @@
 // ==UserScript==
-// @name     AD increase update rate
-// @version  1
-// @grant    none
-// @match    https://ivark.github.io/AntimatterDimensions/*
+// @name         AD increase update rate
+// @version      1
+// @grant        none
+// @match        https://ivark.github.io/AntimatterDimensions/*
+// @match        https://toilet45.github.io/ADRedemption/*
 // @updateURL    https://raw.githubusercontent.com/Redjard/AD-increase-update-rate/master/ad-highrefresh.user.js
 // @downloadURL  https://raw.githubusercontent.com/Redjard/AD-increase-update-rate/master/ad-highrefresh.user.js
 // ==/UserScript==
