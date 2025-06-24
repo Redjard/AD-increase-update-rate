@@ -4,6 +4,7 @@
 // @grant        unsafeWindow
 // @match        https://ivark.github.io/AntimatterDimensions/*
 // @match        https://toilet45.github.io/ADRedemption/*
+// @match        https://supersonic-seven.github.io/AntimatterDimensionsEndgameUpdate/*
 // @updateURL    https://raw.githubusercontent.com/Redjard/AD-increase-update-rate/master/ad-highrefresh.user.js
 // @downloadURL  https://raw.githubusercontent.com/Redjard/AD-increase-update-rate/master/ad-highrefresh.user.js
 // ==/UserScript==
